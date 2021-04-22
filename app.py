@@ -4,8 +4,6 @@ import requests
 
 import listener
 
-def floorSelector(kat):
-    continue
 
 
 def listenRes(res):
@@ -88,7 +86,7 @@ def listenRes(res):
             tamamla=True
             break
     if tamamla and kilit:
-        floorSelector(kat)
+        #floorSelector(kat)
         
         #requests.post("http://192.168.137.222/LED"+str(kat)+"=ON")
         time.sleep(2)
