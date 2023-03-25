@@ -15,7 +15,7 @@ Radio telescopes are built in all shapes and sizes based on the kind of radio wa
     * --------
 
 ### Supported Platforms
-* RaspberryPi
+* Rasbian
 
 
 [![Watch the video](https://i.hizliresim.com/1za81q3.png)](https://www.youtube.com/shorts/F0jZKUeHHd0)
