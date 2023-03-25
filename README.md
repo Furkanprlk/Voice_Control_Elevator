@@ -5,9 +5,6 @@ Radio telescopes are built in all shapes and sizes based on the kind of radio wa
 [![GitHub followers](https://img.shields.io/github/followers/Furkanprlk?style=social)](https://github.com/Furkanprlk) &#9;
 ![](https://img.shields.io/github/forks/Furkanprlk/Voice_Control_Elevator.svg)&#9;
 ![](https://img.shields.io/github/stars/Furkanprlk/Voice_Control_Elevator.svg)&#9;
-![](https://img.shields.io/github/tag/Furkanprlk/Voice_Control_Elevator.svg)&#9;
-![](https://img.shields.io/github/release/Furkanprlk/Voice_Control_Elevator.svg)&#9;
-![](https://img.shields.io/github/issues/Furkanprlk/Voice_Control_Elevator.svg)&#9;
 
 
 ## Features (Coming Soon)
